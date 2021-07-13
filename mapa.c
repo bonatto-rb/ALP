@@ -35,16 +35,16 @@ int main(){
         scanf("%d", &idade);
         tela();
         printf("Preencha o questionario:\n\n");
-        printf("- Tem Febre?\n")
-        printf("Digite 's' para SIM ou 'n' para NAO": );
+        printf("- Tem Febre?\n");
+        printf("Digite 's' para SIM ou 'n' para NAO: ");
         scanf("%c", &febre);
         printf("\n");
-        printf("- Tem dor de cabeca?\n")
-        printf("Digite 's' para SIM ou 'n' para NAO": );
+        printf("- Tem dor de cabeca?\n");
+        printf("Digite 's' para SIM ou 'n' para NAO: ");
         scanf("%c", &cabeca);
         printf("\n");
-        printf("- Tem secrecao ou espirros?\n")
-        printf("Digite 's' para SIM ou 'n' para NAO": );
+        printf("- Tem secrecao ou espirros?\n");
+        printf("Digite 's' para SIM ou 'n' para NAO: ");
         scanf("%c", &secrecao_espirro);
         printf("\n");
         
